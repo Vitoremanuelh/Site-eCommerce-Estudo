@@ -11,7 +11,7 @@ a introdução de efeitos visuais mais complexos na interface do site
 ---- 
     $('h4') // tag 
     $('.featured-item') // class
-    $('#featured') // id 
+    $('#form-submit') // id 
 ----    
 ### Composto 
 ----
